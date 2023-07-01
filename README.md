@@ -1,2 +1,2 @@
 # qt5-cpp-radio
-radio player
+qt5 c++ radio player
